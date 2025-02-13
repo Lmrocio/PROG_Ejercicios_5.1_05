@@ -1,4 +1,4 @@
-# Ejercicio 5: Sistema de Gestión de Biblioteca¶
+# Ejercicio 5: Sistema de Gestión de Biblioteca
 Imagina que estás construyendo un sistema para una biblioteca que gestiona libros y usuarios. Este sistema deberá poder manejar distintos tipos de items en la biblioteca (libros, revistas, DVDs) y distintos tipos de usuarios (estudiante, profesor, visitante).
 
 ## Parte 1: Definir data class
